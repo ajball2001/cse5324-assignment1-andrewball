@@ -7,7 +7,7 @@ operations including branching, merging, and conflict resolution. ##
 Repository Structure - `/src` - Source code files - `/docs` -
 Documentation - `/tests` - Test files ## Git Commands Used (This
 section will be updated as you progress through the assignment)
-## Features
-- Calculator with basic operations
-- User authentication system
-
+## Project Features
+- Mathematical calculator module with basic operations
+- Secure user authentication and login system
+- Application logging functionality
